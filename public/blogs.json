@@ -1,0 +1,57 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/kKRBNsq/10966709-184.jpg",
+        "title": "The Secret Garden",
+        "author": "Emily Smith",
+        "author_img": "https://i.ibb.co/W66NZ1V/Firefly-Inpaint-20230730174702.png",
+        "posted": "2023-09-01",
+        "date": "2023-08-15",
+        "reading_time": 240,
+        "hashtags": "#fiction #classics #gardening"
+    },
+    {
+        "id": "67890",
+        "cover": "https://i.ibb.co/kKRBNsq/10966709-184.jpg",
+        "title": "Lost in Time",
+        "author": "James Anderson",
+        "author_img": "https://i.ibb.co/W66NZ1V/Firefly-Inpaint-20230730174702.png",
+        "posted": "2023-08-25",
+        "date": "2023-07-30",
+        "reading_time": 360,
+        "hashtags": "#sciencefiction #timetravel #adventure"
+    },
+    {
+        "id": "54321",
+        "cover": "https://i.ibb.co/kKRBNsq/10966709-184.jpg",
+        "title": "Mystery at Moonlight Manor",
+        "author": "Sarah Johnson",
+        "author_img": "https://i.ibb.co/W66NZ1V/Firefly-Inpaint-20230730174702.png",
+        "posted": "2023-09-05",
+        "date": "2023-08-20",
+        "reading_time": 210,
+        "hashtags": "#mystery #suspense #detective"
+    },
+    {
+        "id": "98765",
+        "cover": "https://i.ibb.co/kKRBNsq/10966709-184.jpg",
+        "title": "Cooking with Flair",
+        "author": "Michael Baker",
+        "author_img": "https://i.ibb.co/W66NZ1V/Firefly-Inpaint-20230730174702.png",
+        "posted": "2023-08-10",
+        "date": "2023-07-15",
+        "reading_time": 120,
+        "hashtags": "#cookbook #recipes #culinary"
+    },
+    {
+        "id": "24680",
+        "cover": "https://i.ibb.co/kKRBNsq/10966709-184.jpg",
+        "title": "The Art of Zen",
+        "author": "Lily Tran",
+        "author_img": "https://i.ibb.co/W66NZ1V/Firefly-Inpaint-20230730174702.png",
+        "posted": "2023-09-03",
+        "date": "2023-08-10",
+        "reading_time": 300,
+        "hashtags": "#selfhelp #mindfulness #spirituality"
+    }
+]
